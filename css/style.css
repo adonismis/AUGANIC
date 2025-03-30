@@ -332,7 +332,7 @@ ul, ol {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 70px; /* 確保不被header覆蓋 */
+    margin-top: 55px; /* 確保不被header覆蓋 */
 }
 
 .page-header::before {
